@@ -4,7 +4,7 @@ Files that might be needed to explain methods from my report
 DISCLAIMER: these files are available to check what I have done, rather than reproducing it. Unfortunately, the input files can not be shared as they contain sensitive data.
 
 
-File 1: adding samples to the pre-existing mastertable
+File 1: adding samples to the pre-existing mastertable --  TEMPORARILY REMOVED
 
 Samples from all performed microarrays of sCoVs are added to the mastertable.
 
@@ -13,7 +13,7 @@ important changes:
 - samples are assigned to the correct participants
 
 
-File 2: prepare data for figures // make figures
+File 2: prepare data for figures // make figures -- TEMPORARILY REMOVED
 names are changed to English
 
 definition of vaccinated: either 1 or 2 of the vaccination titers are available (thouroughly checked before assuming this)
